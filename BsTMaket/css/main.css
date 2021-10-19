@@ -1,0 +1,57 @@
+body{
+	font-family: Tahoma;
+}
+.topheader{
+	margin-top: 80px;
+	margin-bottom: 120px ;
+}
+.header{
+	font-size: 24px;
+}
+.header strong{
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.form{
+	border: solid 5px #472cc3;
+	padding: 15px;
+	height: 99%;
+}
+.form p{
+	font-weight: 900;
+	font-size: 20px;
+	margin-bottom: 40px;
+	margin-top: 25px;
+}
+.form input{
+	margin-bottom: 10px;
+}
+.form-btn{
+	width: 100%
+}
+.get-inst-btn{
+	background-color: #472cc3;
+	height: 64px;
+}
+.adv-btn{
+	margin-top: 100px;
+}
+.row-2{
+	margin-top: 150px;
+}
+.advheader{
+	margin-bottom: 85px;
+}
+.adv{
+	font-weight: 900;
+}
+.cl-header{
+	margin-top: 100px;
+}
+.pic-row img{
+	margin-top: 33px;
+}
+.pic-row{
+	margin-bottom: 100px;
+	margin-top: 78px;
+}
